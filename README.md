@@ -148,8 +148,3 @@ Netflix[Type] = "TV Show"
 - Interactive drill-through reports
 
 ---
-
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
