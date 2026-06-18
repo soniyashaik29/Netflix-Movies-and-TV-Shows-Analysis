@@ -117,7 +117,7 @@ Netflix[Type] = "TV Show"
 
 ### Main Dashboard
 
-![Dashboard](Images/Dashboard_Overview.png)
+![Dashboard](https://github.com/soniyashaik29/Netflix-Movies-and-TV-Shows-Analysis/blob/main/Overview%20of%20netflix.png)
 
 ---
 
